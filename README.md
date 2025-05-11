@@ -2,7 +2,7 @@
 📌 Sobre
 
 Este projeto foi desenvolvido como parte do programa ONE (Oracle Next Education) — uma iniciativa da Oracle em parceria com a plataforma Alura, para formação de profissionais em tecnologia / Data Science.
-O desafio consiste em auxiliar o cliente (Sr. João), proprietário de quatro lojas da Alura Store, a tomar uma decisão estratégica: vender uma das lojas para investir em um novo negócio. Para tanto, realizei uma análise baseada em cinco métricas principais, com apoio de gráficos:
+O desafio consiste em auxiliar o cliente (Sr. João), proprietário de quatro lojas da Alura Store, a tomar uma decisão estratégica: vender uma das lojas para investir em um novo negócio. Conclusivamente, apresentarei uma recomendação nesse sentido.
 
 ⚙️ Tecnologias e bibliotecas utilizadas
 
@@ -22,5 +22,5 @@ A análise proposta foi baseada em cinco métricas principais, com apoio de grá
 
 ✅ Créditos e licença de uso
 
-Este projeto foi desenvolvido como parte do programa ONE (Oracle Next Education), para compartilhamento público sem reservas e com finalidade educativa, e demonstra a aplicação de técnicas de análise exploratória de dados.
+Este projeto foi desenvolvido como parte do programa ONE (Oracle Next Education), para compartilhamento público sem reservas e com finalidade educativa, demonstrando a aplicação de técnicas de análise exploratória de dados.
 
