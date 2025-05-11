@@ -1,8 +1,8 @@
 # Alura-Store
 📌 Sobre
 Este projeto foi desenvolvido como parte do programa ONE (Oracle Next Education) — uma iniciativa da Oracle em parceria com a plataforma Alura, para formação de profissionais em tecnologia.
+O desafio consiste em auxiliar o cliente (Sr. João), proprietário de quatro lojas da Alura Store, a tomar uma decisão estratégica: vender uma das lojas para investir em um novo negócio. Para tanto, realizei uma análise baseada em cinco métricas principais, com apoio de gráficos:
 
-O desafio consiste em auxiliar o Sr. João, proprietário de quatro lojas da AluraStore, a tomar uma decisão estratégica: vender uma das lojas para investir em um novo negócio. Para isso, realizei uma análise baseada em cinco métricas principais, com apoio de gráficos e indicadores.
 
 ⚙️ Tecnologias e Bibliotecas Utilizadas
 Python 3.11
@@ -13,21 +13,12 @@ Folium - Geração de mapas interativos
 Plotly - Gráficos dinâmicos
 
 📊 Etapas da Análise
-1. 📦 Faturamento Total por Loja
-Soma dos valores da coluna Preço para estimar o desempenho financeiro.
-Gráfico de barras estilizado para facilitar a comparação.
-2. 🧮 Categorias Mais Vendidas
-Agrupamento por Categoria do Produto.
-Visualização por loja para entender preferências de consumo.
-3. ⭐ Avaliações Médias
-Análise da coluna Avaliação da compra.
-Gráfico de pontos para representar visualmente.
-4. 🔝 Produtos Mais e Menos Vendidos
-Contagem de frequência dos produtos por loja.
-Gráfico de violino para representar a variação.
-5. 🚚 Frete Médio
-Cálculo da média da coluna Frete por loja.
-Representação com linhas.
+A análise proposta foi baseada em cinco métricas principais, com apoio de gráficos:
+- Faturamento total de cada loja;
+- Vendas por categorias de produtos de cada loja;
+- Média das avaliações dos clientes para cada loja;
+- Produtos mais e menos vendidos por loja;
+- Custo médio do frete por loja.
 
 💡 Como Executar o Projeto
 Clone este repositório:
