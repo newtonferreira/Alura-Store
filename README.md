@@ -1,6 +1,6 @@
-# Alura-Store
+# Alura Store - Análise de desempenho de lojas
 📌 Sobre
-Este projeto foi desenvolvido como parte do programa ONE (Oracle Next Education) — uma iniciativa da Oracle em parceria com a plataforma Alura, para formação de profissionais em tecnologia.
+Este projeto foi desenvolvido como parte do programa ONE (Oracle Next Education) — uma iniciativa da Oracle em parceria com a plataforma Alura, para formação de profissionais em tecnologia / Data Science.
 O desafio consiste em auxiliar o cliente (Sr. João), proprietário de quatro lojas da Alura Store, a tomar uma decisão estratégica: vender uma das lojas para investir em um novo negócio. Para tanto, realizei uma análise baseada em cinco métricas principais, com apoio de gráficos:
 
 
