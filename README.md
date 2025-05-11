@@ -20,7 +20,7 @@ A análise proposta foi baseada em cinco métricas principais, com apoio de grá
 - Produtos mais e menos vendidos por loja;
 - Custo médio do frete por loja.
 
-📌 Licença de uso
+✅ Créditos e licença de uso
 
-Este projeto foi desenvolvido para compartilhamento público e com finalidade educativa, e demonstra a aplicação de técnicas de análise exploratória de dados.
+Este projeto foi desenvolvido como parte do programa ONE (Oracle Next Education), para compartilhamento público sem reservas e com finalidade educativa, e demonstra a aplicação de técnicas de análise exploratória de dados.
 
